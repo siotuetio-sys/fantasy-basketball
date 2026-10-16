@@ -1,5 +1,7 @@
 # Perfect Draft Hoops
 
+**Live:** https://siotuetio-sys.github.io/fantasy-basketball/
+
 A fantasy basketball assistant for a 10-team H2H points league, in the same paper-and-ink style as [fantasy-baseball](https://github.com/siotuetio-sys/fantasy-baseball), with a leaf-green accent.
 
 Open `index.html` in a browser, or enable GitHub Pages (Settings → Pages → Branch `main`, folder `/ (root)`) and visit `https://siotuetio-sys.github.io/fantasy-basketball/`.
